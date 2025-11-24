@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.sidebar {
+    max-width: 600px;
+}
+
+.sidebar img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.main-content {
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
